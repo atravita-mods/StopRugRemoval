@@ -1,4 +1,4 @@
-﻿{
+{
   "mod.description": "Evita remover las alfombras si hay objetos encima. Y otras cosas.",
   "Enabled.title": "Activado",
   "Enabled.description": "Si activar o desactivar el mod.",
@@ -10,7 +10,7 @@
   "CanPlaceRugsUnder.description": "Si se permite colocar alfombras bajo objetos.",
   "PreventRemovalFromTable.title": "Evitar remover de mesa",
   "PreventRemovalFromTable.description": "Si se activa, los objetos no se removerán de la mesa- a menos que presiones la tecla para colocar muebles.",
-  "PreventPlantingOnRugs.title": "Prevenir plantar en alfombras",
+  "PreventPlantingOnRugs.title": "Evitar plantar en alfombras",
   "PreventPlantingOnRugs.description": "Evita plantar o cosechar sobre alfombras.",
   "PlaceGrassUnder.title": "Colocar pasto debajo",
   "PlaceGrassUnder.description": "Permite colocar pasto debajo de objetos.",
@@ -22,11 +22,11 @@
   "FurniturePlacementKey.title": "Tecla para colocar muebles",
   "FurniturePlacementKey.description": "La tecla que permitirá remover objetos de mesas.",
 
-  "HideCrabPots.title": "Esconder trampas de cangrejo",
-  "HideCrabPots.description": "Esconde trampas de cangrejo durante eventos.",
+  "HideCrabPots.title": "Esconder trampas \npara cangrejo",
+  "HideCrabPots.description": "Esconde trampas para cangrejo durante eventos.",
 
-  "SaveBombedForage.title": "Save Bombed Forage",
-  "SaveBombedForage.description": "Bombed forage es recolectado automáticamente",
+  "SaveBombedForage.title": "Guardar objetos \nbombardeados",
+  "SaveBombedForage.description": "Los objetos bombardeados son recolectados automáticamente",
 
   // Handle the confirmación GMCM stuff....
 
@@ -53,9 +53,9 @@
   "ConfirmWarps.title": "Confirmación de teletransporte",
   "ConfirmWarps.description": "Si pedir confirmación antes de teletransportarse.",
 
-  "WarpsInSafeAreas.title": "Teletransportarse en áreas seguras",
+  "WarpsInSafeAreas.title": "Teletransportarse \nen áreas seguras",
   "WarpsInSafeAreas.description": "Si la confirmación de teletransporte se debería activar en áreas seguras.",
-  "WarpsInDangerousAreas.title": "Teletransportarse en áreas peligrosas",
+  "WarpsInDangerousAreas.title": "Teletransportarse \nen áreas peligrosas",
   "WarpsInDangerousAreas.description": "Si la confirmación de teletransporte se debería activar en áreas peligrosas.",
 
   "ConfirmScepter.title": "Confirmación de cetro de retorno",
@@ -65,7 +65,7 @@
 
   "ReturnScepterInSafeAreas.title": "Cetro de retorno\nen áreas seguras",
   "ReturnScepterInSafeAreas.description": "Si la confirmación del Cetro de retorno se debería activar en áreas seguras.",
-  "ReturnScepterInDangerousAreas.title": "Cetro de retorno\nEn áreas peligrosas",
+  "ReturnScepterInDangerousAreas.title": "Cetro de retorno\nen áreas peligrosas",
   "ReturnScepterInDangerousAreas.description": "Si la confirmación del Cetro de retorno se debería activar en áreas peligrosas.",
 
   // Messages to the player.
