@@ -28,7 +28,7 @@
   "SaveBombedForage.title": "Guardar objetos \nbombardeados",
   "SaveBombedForage.description": "Los objetos bombardeados son recolectados automáticamente",
 
-  // Handle the confirmación GMCM stuff....
+  // Handle the confirmation GMCM stuff....
 
   "BombLocationDetailed": "Confirmación de bomba/teletransporte por mapa",
   "BombLocationDetailed.description": "Decide si un lugar se debería considerar seguro o peligroso (con respecto a las bombas). Un lugar dinámico se considera peligroso si hay aunque sea un monstruo.",
